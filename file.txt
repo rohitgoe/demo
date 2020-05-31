@@ -2,4 +2,8 @@ My first File for GIT Repo
 
 Modifying the file
 
+<<<<<<< HEAD
 File needs to be modified
+=======
+File needs to be modified
+>>>>>>> New
