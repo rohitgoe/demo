@@ -1,0 +1,1 @@
+Demo of files handling outside GIT(without Git commands)
