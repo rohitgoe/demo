@@ -1,1 +1,2 @@
 Demo of files handling outside GIT(without Git commands)
+Demo of GIT remote push of files
