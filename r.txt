@@ -1,2 +1,0 @@
-File introduced in Updates Branch
-To practise the pull funtion in GIT
